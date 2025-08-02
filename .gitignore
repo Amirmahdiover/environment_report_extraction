@@ -1,0 +1,26 @@
+# Ignore virtual environments
+venv/
+.venv/
+
+# Ignore environment variables
+.env
+.env.*
+
+# Python cache and bytecode
+__pycache__/
+*.py[cod]
+*$py.class
+
+# VSCode and PyCharm settings
+.vscode/
+.idea/
+
+# Log, SQLite, or misc local files
+*.log
+*.sqlite3
+*.db
+*.egg-info/
+.DS_Store
+
+# System files
+Thumbs.db
