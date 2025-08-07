@@ -4,7 +4,7 @@ venv/
 
 # Ignore environment variables
 .env
-.env.*
+.env.
 
 # Python cache and bytecode
 __pycache__/
